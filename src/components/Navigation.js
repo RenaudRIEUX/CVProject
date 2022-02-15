@@ -6,7 +6,7 @@ const Navigation = () => {
     <div className="sidebar">
       <div className="id">
         <div className="idContent">
-          <img src="./media/renaud.jpg" alt="profil-pic" />
+          <img src="./media/renaud.jpg" alt="profil-pic" loading="lazy" />
           <h3>Renaud RIEUX</h3>
         </div>
       </div>
@@ -38,7 +38,7 @@ const Navigation = () => {
         <ul>
           <li>
             <a
-              href="https://github.com/JustFS"
+              href="https://github.com/RenaudRIEUX"
               target="_blank"
               rel="noopener noreferrer"
             >
