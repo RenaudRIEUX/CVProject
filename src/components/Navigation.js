@@ -6,7 +6,10 @@ const Navigation = () => {
     <div className="sidebar">
       <div className="id">
         <div className="idContent">
-          <img decoding="async" src="./media/renaud.jpg" alt="profil-pic" />
+          <img
+            src="https://renaudrieux.github.io/cvproject/media/renaud.jpg"
+            alt="profil-pic"
+          />
           <h3>Renaud RIEUX</h3>
         </div>
       </div>
