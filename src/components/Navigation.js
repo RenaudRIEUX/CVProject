@@ -19,15 +19,15 @@ const Navigation = () => {
           <li>
             <NavLink to="/cvproject" className="navActive">
               <i className="fas fa-home"></i>
-              <span>Accueil</span>
+              <span>Home</span>
             </NavLink>
           </li>
-          <li>
+{/*           <li>
             <NavLink to="/knowledges" className="navActive">
               <i className="fas fa-mountain"></i>
-              <span>Compétences</span>
+              <span>Knowledges</span>
             </NavLink>
-          </li>
+          </li> */}
           <li>
             <NavLink to="/contact" className="navActive">
               <i className="fas fa-address-book"></i>
@@ -68,6 +68,7 @@ const Navigation = () => {
             </a>
           </li>
         </ul>
+
         <div className="signature">
           <p>R. RIEUX - 2022</p>
         </div>

@@ -14,7 +14,7 @@ const Home = () => {
               href="https://renaudrieux.github.io/cvproject/media/RenaudRIEUX_CV.pdf"
               target="_blanc"
             >
-              Télécharger CV
+              Download CV
             </a>
           </div>
         </div>

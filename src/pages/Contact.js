@@ -9,11 +9,11 @@ const Contact = () => {
       <div className="contactContent">
         <div className="header"></div>
         <div className="contactBox">
-          <h1>Contactez-moi</h1>
+          <h1>Contact me</h1>
           <ul>
             <li>
               <i className="fas fa-map-marker-alt"></i>
-              <span>Paris</span>
+              <span>London</span>
             </li>
             <li>
               <i className="fas fa-mobile-alt"></i>
