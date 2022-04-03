@@ -8,7 +8,9 @@ const Home = () => {
       <div className="homeContent">
         <div className="content">
           <h1>Renaud RIEUX</h1>
-          <h2>Développeur full stack</h2>
+          <h3>
+            IBM consultant with both a backgound in finance and computer science
+          </h3>
           <div className="pdf">
             <a
               href="https://renaudrieux.github.io/cvproject/media/RenaudRIEUX_CV.pdf"
